@@ -1,0 +1,9 @@
+aside h2{
+    width:215px;
+    padding: 40px 300px 10px 60px;
+}
+aside p{
+    float: right;
+    border-style: solid;
+    padding: 20px 30px;
+    margin: 10px 100px 100px 400px;
