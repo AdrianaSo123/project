@@ -1,13 +1,19 @@
+
 body p{
     float: right;
     margin: 20px;
 }
+body{
+    max-width: 100%;
+}
 header h1{
-    float: initial;
+    float: left;
+    margin-left: 15px;
 }
 header img{
     border: solid 2px #800000;
     margin: 20px;
+    float: right;
 }
 .footer {
     position: fixed;
