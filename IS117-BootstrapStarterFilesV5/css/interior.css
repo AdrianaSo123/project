@@ -5,3 +5,8 @@
 .container-fluid{
     text-align: center;
 }
+.card{
+    margin-bottom: 20px;
+    max-width: 20rem;
+    margin-left: 2.5rem;
+}

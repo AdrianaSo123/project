@@ -1,4 +1,6 @@
-
+*{
+    font-family: "sans-serif vilane", "Arial", sans-serif;
+}
 body p{
     float: right;
     margin: 20px;
@@ -25,4 +27,7 @@ header img{
     text-align: center;
     padding: 10px;
     font-size: .75rem;
+}
+.footer p{
+    color: white;
 }
