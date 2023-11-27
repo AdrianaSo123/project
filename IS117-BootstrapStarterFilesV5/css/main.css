@@ -2,13 +2,12 @@ body p{
     float: right;
     margin: 20px;
 }
-.jumbotron{
-    position: relative;
-    margin-bottom: 70px;
-
-}
 header h1{
     float: initial;
+}
+header img{
+    border: solid 2px #800000;
+    margin: 20px;
 }
 .footer {
     position: fixed;

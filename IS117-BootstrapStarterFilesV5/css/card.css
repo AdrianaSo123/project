@@ -1,5 +1,5 @@
 .container-md-fluid {
-    margin: 0 20px 0 45px;
+    margin: 0 10px 0 50px;
     max-width: 250px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
