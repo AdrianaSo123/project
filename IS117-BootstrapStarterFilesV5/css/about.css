@@ -2,15 +2,13 @@ aside h2{
     width:215px;
     padding: 40px 300px 10px 60px;
 }
-aside img{
-    max-width: 18%;
-    margin-left: 10px;
+.row img{
+    max-width: 20%;
+    margin-left: 10px 10px 20px 10px;
     float: left;
-    display: inline;
 }
-aside p {
+.row p {
     border-style: solid;
     padding: 20px 20px;
-    margin: 10px 100px 100px 300px;
-    float: right;
+    margin: 20px auto;
 }
