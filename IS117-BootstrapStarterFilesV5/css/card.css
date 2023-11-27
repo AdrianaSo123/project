@@ -4,7 +4,15 @@
     grid-template-columns: repeat(3, 1fr);
     column-gap: 30px;
 }
-
+.container{
+    display: grid;
+    margin-top: 1rem;
+}
 .card{
     min-width: 12rem;
+    display: grid;
+    margin-bottom: 20px;
+}
+.footer{
+    text-align: center;
 }
