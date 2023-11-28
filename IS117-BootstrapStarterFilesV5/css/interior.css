@@ -1,6 +1,12 @@
+/* DEVELOPER Adriana So, IS117-003, Fall 2023 */
+h1{
+    font-weight: bold;
+    color: #800000;
+}
 .container{
     column-gap: 20px;
     max-height: 15rem;
+    font-size: 1rem;
 }
 .container-fluid{
     text-align: center;
@@ -9,4 +15,7 @@
     margin-bottom: 20px;
     max-width: 20rem;
     margin-left: 2.5rem;
+}
+.card-body{
+    font-size: 1rem;
 }

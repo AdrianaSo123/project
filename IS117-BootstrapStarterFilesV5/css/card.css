@@ -1,3 +1,4 @@
+/* DEVELOPER Adriana So, IS117-003, Fall 2023 */
 .container-md-fluid {
     margin: 10px 30px;
     display: grid;
@@ -12,6 +13,10 @@
     min-width: 12rem;
     display: grid;
     margin-bottom: 20px;
+}
+.card-text{
+    display: inline;
+    position: relative;
 }
 .footer{
     text-align: center;
